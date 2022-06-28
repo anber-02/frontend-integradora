@@ -1,0 +1,37 @@
+install react navigatoin
+npm install @react-navigation/native
+expo install react-native-screens react-native-safe-area-context
+
+installar forma de navegar en react-native con el comando
+npm install @react-navigation/native-stack
+
+
+npm install -g expo-cli
+
+
+//es una dependencia para crear formularios
+npm install formik
+//o se puede utilizar react hook forms
+
+
+// es una depencia que nos ayuda a validar formularios
+npm install yup
+
+
+regex email js
+
+
+--background linear gradient
+https://docs.expo.dev/versions/latest/sdk/linear-gradient/
+
+
+biblioteca para crear un menu lateral
+// npm install @react-navigation/drawer\
+
+
+
+// para arreglar la incompatibilidad 
+de dependencias automaticamente
+expo doctor --fix-dependencies
+
+expo start --clear inicia el proyecto y borra el cache
